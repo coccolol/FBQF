@@ -28,7 +28,7 @@ const materias = [
   { id: "micro", nombre: "Microbiología General", anio: 4, cuatri: 1, corrs: ["qb1"] },
   { id: "inmub", nombre: "Inmunología Básica", anio: 4, cuatri: 1, corrs: ["fisiol", "qb2", "histo"] },
 
-  { id: "cel", nombre: "Biología Celular", anio: 4, cuatri: 2, corrs: [] },
+  { id: "cel", nombre: "Biología Celular", anio: 4, cuatri: 2, corrs: ["qo2","qb2"] },
   { id: "farm", nombre: "Elementos de Farmacodinamia", anio: 4, cuatri: 2, corrs: ["fisiol"] },
   { id: "inmuc", nombre: "Inmunología Clínica", anio: 4, cuatri: 2, corrs: ["micro", "inmub"] },
 
