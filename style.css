@@ -20,7 +20,7 @@ h1 {
 }
 .grilla {
   display: flex;
-  flex-wrap: colum;
+  flex-wrap: column;
   gap: 10px;
 }
 .materia {
